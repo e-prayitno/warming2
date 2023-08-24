@@ -1,2 +1,2 @@
 # warming2
-ini Eko Prayitno sureko
+ini Eko Prayitno
